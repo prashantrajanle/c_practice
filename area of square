@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    float side;
+    printf("enetr side");
+    scanf("%f",&side);
+    printf("area is:%f",side*side);
+
+    return 0;
+}
+output
+enetr side34
+area is:1156.000000
